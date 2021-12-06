@@ -21,12 +21,12 @@ All the valid data saved should be displayed in a real-time manner on a small fr
 ### How to Run
 
 
-Server:
- npm install
- node .\server.js
+#### Server:
+npm install
+node .\server.js
 
-Client: 
- cd client 
- npm install
- npm run start
+#### Client: 
+cd client 
+npm install
+npm run start
 
